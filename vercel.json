@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/raw",
-      "destination": "/api/raw.lua"
+      "source": "/ror",
+      "destination": "/api/ror.lua"
     }
   ],
   "headers": [
